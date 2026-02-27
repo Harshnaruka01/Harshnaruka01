@@ -51,8 +51,7 @@
 ## 🌟 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_LINK">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
+  <a href="https://www.linkedin.com/in/harsh-966490297/">LinkedIn</a>
 </p>
 
 ---
